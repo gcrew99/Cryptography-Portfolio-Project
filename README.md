@@ -14,4 +14,4 @@ To resolve, do this:
 mkdir node_modules/latex.js/dist/documentclasses
 ```
 
-![Program Demo](https://github.com/gcrew99/gcrew99.github.io/blob/main/ezgif.com-gif-maker (1).gif)
+![Program Demo](https://github.com/gcrew99/gcrew99.github.io/blob/main/Proj_Demo.gif)
