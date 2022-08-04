@@ -14,4 +14,4 @@ To resolve, do this:
 mkdir node_modules/latex.js/dist/documentclasses
 ```
 
-![Program Demo](https://github.com/gcrew99/gcrew99.github.io/blob/main/Project Name.gif)
+![Program Demo](https://github.com/gcrew99/gcrew99.github.io/blob/main/Project_Demo.gif)
